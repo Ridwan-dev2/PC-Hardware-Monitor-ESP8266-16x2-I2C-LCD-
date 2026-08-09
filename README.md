@@ -3,6 +3,7 @@
 A sleek, real-time PC hardware monitor built with an ESP8266 and a standard 16x2 character display. This project fetches live telemetry from your PC (CPU, GPU, RAM, Network, and SSD speeds) and streams it to the LCD via USB.
 
 It features **smooth transition animations**, a custom **sub-pixel RAM progress bar**, and an **interactive Python terminal menu** to control what the display shows on the fly—no physical buttons required!
+<img width="1402" height="1122" alt="fffff" src="https://github.com/user-attachments/assets/5c1c59fa-91e1-4f24-a96a-e89eb1be26b0" />
 
 ---
 
