@@ -24,16 +24,16 @@ A low-latency, modular PC hardware telemetry monitoring system. Powered by an **
 
 ## 📌 Features At A Glance
 
-┌────────────────────────────────────────────────────────────────────────┐
-│                        LCD ROTATION CYCLE (4s)                         │
-├───────────┬───────────┬───────────┬───────────┬───────────┬────────────┤
-│   PAGE 1  │   PAGE 2  │   PAGE 3  │   PAGE 4  │   PAGE 5  │   PAGE 6   │
-│ ┌───────┐ │ ┌───────┐ │ ┌───────┐ │ ┌───────┐ │ ┌───────┐ │ ┌────────┐ │
-│ │  GPU  │ │ │  CPU  │ │ │  RAM  │ │ │  NET  │ │ │  SSD  │ │ │  INFO  │ │
-│ └───────┘ │ └───────┘ │ └───────┘ │ └───────┘ │ └───────┘ │ └────────┘ │
-│ RTX 3060  │ R7 5700X  │ HyperX    │ Giga LAN  │ 980 SSD   │ Windows 11 │
-│ Temp & Usg│ Temp & Usg│ 45px Bar  │ Up/Down MB│ R/W Speeds│ Credit Text│
-└───────────┴───────────┴───────────┴───────────┴───────────┴────────────┘
+┌─────────────────────────────────────────┐
+│        LCD ROTATION CYCLE (4s)          │
+├─────────────────────────────────────────┤
+│ [1] GPU  : RTX 3060     │ Temp & Usg    │
+│ [2] CPU  : Ryzen 5700X  │ Temp & Usg    │
+│ [3] RAM  : HyperX       │ 45px Bar X%   │
+│ [4] NET  : Giga LAN     │ Up ↑ / Down ↓ │
+│ [5] SSD  : 980 SSD      │ Read/Write MB │
+│ [6] INFO : Windows 11   │ Credit Text   │
+└─────────────────────────────────────────┘
 
 
 * **⚡ Sub-Pixel Smooth RAM Engine:** custom 5-bit character generation mapping 0-100% memory usage across a granular **45-pixel precision bar** (no crude 1-block jumping).
