@@ -23,7 +23,7 @@ A low-latency, modular PC hardware telemetry monitoring system. Powered by an **
 </div>
 
 ## 📌 Features At A Glance
-
+```ascii
 ┌─────────────────────────────────────────┐
 │        LCD ROTATION CYCLE (4s)          │
 ├─────────────────────────────────────────┤
@@ -34,7 +34,6 @@ A low-latency, modular PC hardware telemetry monitoring system. Powered by an **
 │ [5] SSD  : 980 SSD      │ Read/Write MB │
 │ [6] INFO : Windows 11   │ Credit Text   │
 └─────────────────────────────────────────┘
-
 
 * **⚡ Sub-Pixel Smooth RAM Engine:** custom 5-bit character generation mapping 0-100% memory usage across a granular **45-pixel precision bar** (no crude 1-block jumping).
 * **🔀 Dynamic Motion Transitions:** 4 randomized hardware rendering transition effects (*Wipe Left, Wipe Right, Vertical Drop, Center Expand*) applied automatically between display pages.
